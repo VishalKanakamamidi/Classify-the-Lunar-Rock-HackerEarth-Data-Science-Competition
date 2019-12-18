@@ -1,5 +1,7 @@
 # Classify-the-Lunar-Rock-HackerEarth-Data-Science-Competition
 ● Here I am classifying between two types of Lunar rocks i.e Small and Large. <br/>
+● The Link to the Competition is https://www.hackerearth.com/challenges/competitive/lunar-rock-hackerearth-data-science-competition/ <br/>
+● My Rank in this Competition was 51.
 ● The link to the dataset is https://drive.google.com/drive/folders/1kT5GDYy-FoD5NQWTgD3ku-iFuiP7OqTS?usp=sharing . <br/>
 ● Here I have used Transfer Learning by using ResNet50 Architecture. <br/>
 ● I have used Keras for Image Classification. <br/>
